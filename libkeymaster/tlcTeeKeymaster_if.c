@@ -30,6 +30,7 @@
  */
 
 #include <stdlib.h>
+#include <string.h>
 
 #include "MobiCoreDriverApi.h"
 #include "tlTeeKeymaster_Api.h"
